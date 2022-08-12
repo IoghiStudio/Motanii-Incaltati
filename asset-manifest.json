@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.7c6e430a.css",
-    "main.js": "/react-gh-pages/static/js/main.8fce57e6.js",
-    "static/js/787.293c2eec.chunk.js": "/react-gh-pages/static/js/787.293c2eec.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.7c6e430a.css.map": "/react-gh-pages/static/css/main.7c6e430a.css.map",
-    "main.8fce57e6.js.map": "/react-gh-pages/static/js/main.8fce57e6.js.map",
-    "787.293c2eec.chunk.js.map": "/react-gh-pages/static/js/787.293c2eec.chunk.js.map"
+    "main.css": "/Motanii-Incaltati/static/css/main.7c6e430a.css",
+    "main.js": "/Motanii-Incaltati/static/js/main.d1f109d2.js",
+    "static/js/787.293c2eec.chunk.js": "/Motanii-Incaltati/static/js/787.293c2eec.chunk.js",
+    "index.html": "/Motanii-Incaltati/index.html",
+    "main.7c6e430a.css.map": "/Motanii-Incaltati/static/css/main.7c6e430a.css.map",
+    "main.d1f109d2.js.map": "/Motanii-Incaltati/static/js/main.d1f109d2.js.map",
+    "787.293c2eec.chunk.js.map": "/Motanii-Incaltati/static/js/787.293c2eec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c6e430a.css",
-    "static/js/main.8fce57e6.js"
+    "static/js/main.d1f109d2.js"
   ]
 }
